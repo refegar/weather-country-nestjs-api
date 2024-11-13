@@ -1,0 +1,11 @@
+### peticion general
+GET http://localhost:3000
+
+### peticion de tiempo weather
+GET http://localhost:3000/weather?city=Bogotá
+
+### peticion de ciudad
+GET http://localhost:3000/country/brasil
+
+### peticion de ciudad con query
+GET http://localhost:3000/country?name=russia
